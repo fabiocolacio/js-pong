@@ -1,0 +1,9 @@
+{
+  "name": "socket-pong",
+  "version": "0.0.1",
+  "description": "a game of online multiplayer pong",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.8"
+  }
+}

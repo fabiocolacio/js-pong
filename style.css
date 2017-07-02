@@ -1,0 +1,19 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: rgb(30,30,30);
+  padding: 0px;
+  margin: 10px;
+}
+
+#gameArea{
+  display: block;
+  margin: auto;
+  color: rgb(0,0,0);
+  overflow: auto;
+  padding: 5px;
+}
